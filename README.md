@@ -1,5 +1,5 @@
 # Group-F-RMDS-Hackathon
-This respository contains file and data for Group F task in the Research methods in data science hackathon
+This respository contains file and data for Group F task in the Research methods in data science hackathon 
 
 # Group Breakdown
 The team was divided into sub-groups to focus on sepecific models to maximize input and effort
